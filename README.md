@@ -28,3 +28,5 @@ Clerk
 [Eslam Mohammed](https://images.pexels.com/photos/27430539/pexels-photo-27430539/free-photo-of-blue-eyes-with-horse.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 [Toàn Văn](https://images.pexels.com/photos/20988585/pexels-photo-20988585/free-photo-of-skyscrapers-in-ho-chi-minh-vietnam.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 [Irina Berdzenishvili](https://images.pexels.com/photos/27425072/pexels-photo-27425072/free-photo-of-faded-dream.jpeg)
+[Steve Johnson](https://images.pexels.com/photos/1000366/pexels-photo-1000366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+[Karolina Kaboompics](https://images.pexels.com/photos/4016579/pexels-photo-4016579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)

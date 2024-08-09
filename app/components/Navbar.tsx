@@ -58,7 +58,7 @@ const Navbar = () => {
                     </div>
                 </SignedIn>
                 <SignedOut>
-                    <div className=" items-center gap-2 text-sm">
+                    <div className="flex items-center gap-2 text-sm">
                         <Image src="/noAvatar.png" alt="" width={20} height={20} />
                         <Link href="/sign-in">Login/Register</Link>
                     </div>
